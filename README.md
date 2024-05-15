@@ -1,4 +1,6 @@
 # Get_Next_Line
+> This repository contains a "Get_Next_Line" project that is part of the École 42 curriculum.
+
 This project is about reading a file descriptor and return it line by line
 
 You will understand how files are opened, read and closed in an OS,
